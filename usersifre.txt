@@ -1,0 +1,7 @@
+{
+    "UserName":"onursen",
+    "Email" :"onursen@gmail.com",
+    "Name" : "onur",
+ "Surname" :"sen",
+ "Password":"19931993On*"
+}
