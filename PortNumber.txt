@@ -3,3 +3,4 @@ Catalog  --> 7084
 Discount --> 7085
 Order    --> 7086
 Cargo    --> 7087
+Basket	 --> 7088
